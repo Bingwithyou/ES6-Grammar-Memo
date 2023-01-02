@@ -9,8 +9,14 @@ date('Monday', 'Tuesday','Wednesday');
 ```
 #### 2. rest 参数
 ```js
-
+function date(...args){
+  // 输出结果为数组，可以使用数组身上的方法：filter,some,every,map等
+  console.log(args);
+}
+date('Monday', 'Tuesday','Wednesday');
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNzIxODM3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE5MjQ1ODA4MzYsLTIwODg3NDY2MTJdfQ
+==
 -->
