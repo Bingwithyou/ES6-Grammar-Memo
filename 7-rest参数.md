@@ -17,5 +17,5 @@ date('Monday', 'Tuesday','Wednesday');
 ```
 > rest 参数必须要放到参数最后，否则报错：Rest parameter must be last formal parameter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MTE5NzA3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzc1MTE5NzA3XX0=
 -->
