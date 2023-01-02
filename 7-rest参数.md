@@ -2,11 +2,12 @@
 #### 1. ES5 获取实参的方式
 ```js
 function date(){
-  // 输出
+  // 输出结果的原型是 object
   console.log(arguments);
 }
 date('Monday', 'Tuesday','Wednesday');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzgyNjgwNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzNzc3OTM0MDksLTIwODg3NDY2MTJdfQ
+==
 -->
