@@ -15,8 +15,7 @@ function date(...args){
 }
 date('Monday', 'Tuesday','Wednesday');
 ```
-
+> rest 参数必须要放到参数最后，否则报错：Rest parameter must be last formal parameter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ1ODA4MzYsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMzc1MTE5NzA3LC0yMDg4NzQ2NjEyXX0=
 -->
