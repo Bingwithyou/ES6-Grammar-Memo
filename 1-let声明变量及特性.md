@@ -7,7 +7,7 @@ let star = "Altair";
 ### 2. 块级作用域
 ```js
 {
-  let girl = "Sadie"
+  let girl = "Sadie";
 }
 console.log(girl);
 // 报错：Uncaught ReferenceError: girl is not defined at xxx:xx
@@ -34,5 +34,6 @@ console.log(girl);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgwNzM2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE5ODI4NTk0NzYsLTExNzgwNzM2NzFdfQ
+==
 -->
